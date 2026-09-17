@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/💻_Meu_nick_é_Killua-FF0000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🧠_automação_•_scripts_•_bots_•_backend-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🚀_nas_horas_vagas_faço_designer-9146FF?style=for-the-badge" />
 </p>
@@ -25,7 +24,7 @@
   <b>`プ ロ グ ラ マ`</b>
   <samp>
     <br>
-    Hi there! I'm <b>K1llua</b>
+    Hi there! I'm <b>g7v</b>
   </samp>
 </div>
 
